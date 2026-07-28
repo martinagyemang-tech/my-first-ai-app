@@ -7,9 +7,10 @@ Run it with:   python week1/hello.py
 """
 
 # TODO: print a greeting
-
+print ("Hello World")
 
 # TODO: create a variable with your name, and use it in a message
+name = " Martin "
 
-
-# TODO: try an f-string  ->  print(f"Hello, {name}!")
+message = 'an aspiring cloud engineer'
+print( "i am " + name + message)
