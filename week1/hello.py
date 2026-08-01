@@ -12,5 +12,5 @@ print ("Hello World")
 # TODO: create a variable with your name, and use it in a message
 name = " Martin "
 
-message = 'an aspiring cloud engineer'
-print( "i am " + name + message)
+# TODO: try an f-string  -> print(f'hello, (name)!')
+print(f"hello, {name}!")
